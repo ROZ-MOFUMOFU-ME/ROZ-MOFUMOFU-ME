@@ -1,10 +1,10 @@
 # ROZ-MOFUMFU-ME / Aoi Emerauda
-
 ### Hi there 👋
+
 ## 🏆 Github Profile Trophy
 
 <a href="https://github.com/ROZ-MOFUMFU-ME/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ROZ-MOFUMFU-ME&column=7&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ROZ-MOFUMOFU-ME&column=7&no-frame=true"/>
 </a>
 
 ## 📝 GitHub Readme Stats
