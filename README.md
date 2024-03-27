@@ -1,4 +1,4 @@
-# ROZ-MOFUMFU-ME / Aoi Emerauda
+# ROZ-MOFUMOFU-ME / Aoi Emerauda
 ### Hi there 👋
 
 ## 🏆 Github Profile Trophy
