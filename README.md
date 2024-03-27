@@ -11,10 +11,10 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
+  <img height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
+  <img height="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
 </a>
 </div>
 
