@@ -1,4 +1,4 @@
-# ROZ-MOFUMOFU-ME a.k.a. Aoi Emerauda
+# ROZ a.k.a. Aoi Emerauda
 ### Hi there 👋
 
 ## 🏆 Github Profile Trophy
