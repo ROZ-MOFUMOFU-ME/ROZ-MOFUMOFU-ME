@@ -10,12 +10,12 @@
 
 ## 🏆 Github Profile Trophy
 <a href="https://github.com/ROZ-MOFUMFU-ME/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ROZ-MOFUMOFU-ME&column=7&no-frame=true"/>
+  <img width=auto src="https://github-profile-trophy.vercel.app/?username=ROZ-MOFUMOFU-ME&column=7&no-frame=true"/>
 </a>
 
 ## 📝 GitHub Readme Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
+  <img height="250" width="auto" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="250" width="auto align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
