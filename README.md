@@ -28,7 +28,18 @@
 </a>
 </div>
 
-<a href='https://ko-fi.com/emerauda' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+## 🎁 Donation
+- [GitHub Sponsors](https://github.com/sponsors/ROZ-MOFUMOFU-ME)
+- [Patreon](https://www.patreon.com/emerauda)
+- [ko-fi](https://ko-fi.com/emerauda)
+- [buymeacoffee](https://buymeacoffee.com/emerauda)
+- [FANBOX](http://emerauda.fanbox.cc)
+- [Fantia](https://fantia.jp/emerauda)
+<div>
+<a href="https://patreon.com/bePatron?u=emerauda" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href='https://ko-fi.com/emerauda' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/emerauda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
 
 <!--
 **ROZ-MOFUMOFU-ME/ROZ-MOFUMOFU-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
