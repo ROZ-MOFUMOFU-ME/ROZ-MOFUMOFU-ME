@@ -29,14 +29,18 @@
 </div>
 
 ## 🎁 Donation
+<div>
 - [GitHub Sponsors](https://github.com/sponsors/ROZ-MOFUMOFU-ME)
 - [Patreon](https://www.patreon.com/emerauda)
 - [ko-fi](https://ko-fi.com/emerauda)
 - [buymeacoffee](https://buymeacoffee.com/emerauda)
 - [FANBOX](http://emerauda.fanbox.cc)
 - [Fantia](https://fantia.jp/emerauda)
+</div>
 <div>
 <a href='https://ko-fi.com/emerauda' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+<div>
 <a href="https://buymeacoffee.com/emerauda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 36px !important;width: auto;" ></a>
 </div>
 
