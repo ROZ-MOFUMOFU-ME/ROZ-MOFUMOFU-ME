@@ -29,12 +29,8 @@
 - [FANBOX](http://emerauda.fanbox.cc)
 - [Fantia](https://fantia.jp/emerauda)
 
-<div>
-<a href='https://ko-fi.com/emerauda' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-<div>
-<a href="https://buymeacoffee.com/emerauda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 36px !important;width: auto;" ></a>
-</div>
+<a href='https://ko-fi.com/emerauda' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'></a>
+<a href="https://buymeacoffee.com/emerauda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 36px !important;width: auto;"></a>
 
 <!--
 **ROZ-MOFUMOFU-ME/ROZ-MOFUMOFU-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
