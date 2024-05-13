@@ -22,7 +22,7 @@
 </div>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
+  <img height="250" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
 </a>
 </div>
 </div>
