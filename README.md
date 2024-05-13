@@ -9,6 +9,7 @@
 - [🎮 Discord](https://discord.com/users/665461090481864715) - Aoi Emerauda
 
 ## 🏆 Github Profile Trophy
+<div style="width=100%">
 <div>
 <a href="https://github.com/ROZ-MOFUMFU-ME/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ROZ-MOFUMOFU-ME&column=7&no-frame=true"/>
@@ -17,7 +18,7 @@
 
 ## 📝 GitHub Readme Stats
 
-<div>
+<div
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
 </a>
@@ -27,16 +28,16 @@
   <img height="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
 </a>
 </div>
+</div>
 
 ## 🎁 Donation
-<div>
 - [GitHub Sponsors](https://github.com/sponsors/ROZ-MOFUMOFU-ME)
 - [Patreon](https://www.patreon.com/emerauda)
 - [ko-fi](https://ko-fi.com/emerauda)
 - [buymeacoffee](https://buymeacoffee.com/emerauda)
 - [FANBOX](http://emerauda.fanbox.cc)
 - [Fantia](https://fantia.jp/emerauda)
-</div>
+
 <div>
 <a href='https://ko-fi.com/emerauda' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
