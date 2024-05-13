@@ -36,9 +36,8 @@
 - [FANBOX](http://emerauda.fanbox.cc)
 - [Fantia](https://fantia.jp/emerauda)
 <div>
-<a href="https://patreon.com/bePatron?u=emerauda" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 <a href='https://ko-fi.com/emerauda' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://www.buymeacoffee.com/emerauda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://buymeacoffee.com/emerauda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 36px !important;width: auto;" ></a>
 </div>
 
 <!--
