@@ -14,18 +14,12 @@
 </a>
 
 ## 📝 GitHub Readme Stats
-<div style="width=100%">
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
 </a>
-</div>
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="250" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
 </a>
-</div>
-</div>
 
 ## 🎁 Donation
 - [GitHub Sponsors](https://github.com/sponsors/ROZ-MOFUMOFU-ME)
