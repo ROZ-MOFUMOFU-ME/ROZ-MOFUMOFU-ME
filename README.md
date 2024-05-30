@@ -3,8 +3,8 @@
 - 🥽 VR User
 
 ## 📫 How to reach me: 
-- [𝕏](https://twitter.com/ROZ_mofumofu_me) - ROZ
-- [𝕏](https://twitter.com/Aoi_Emerauda) - Aoi Emerauda
+- [𝕏](https://x.com/ROZ_mofumofu_me) - ROZ
+- [𝕏](https://x.com/Aoi_Emerauda) - Aoi Emerauda
 - [🎮 Discord](https://discord.com/users/356478206360027137) - ROZ
 - [🎮 Discord](https://discord.com/users/665461090481864715) - Aoi Emerauda
 
@@ -18,7 +18,7 @@
   <img height="250" width="auto" align="left" src="https://github-readme-stats.vercel.app/api?username=ROZ-MOFUMOFU-ME&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="250" width="auto align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
+  <img height="250" width="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROZ-MOFUMOFU-ME" />
 </a>
 
 ## 🎁 Donation
